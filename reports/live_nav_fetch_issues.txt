@@ -1,0 +1,6 @@
+LIVE NAV FETCH ISSUES
+
+MISMATCH: HDFC_Top_100_Direct, code 125497
+Expected scheme keywords: ['HDFC', 'TOP 100']
+Actual scheme name: SBI SMALL CAP FUND - Direct Plan - Growth
+Returned data saved to: C:\Users\Lenovo\Desktop\bluestock-mutual-fund-analytics\data\raw\live_nav_unmatched_code_125497.csv

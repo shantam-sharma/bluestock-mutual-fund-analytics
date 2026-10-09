@@ -1,0 +1,64 @@
+BLUESTOCK DATA INGESTION SUMMARY
+==================================================
+
+Dataset: 01_fund_master.csv
+Rows: 40
+Columns: 15
+Missing values: None
+
+Dataset: 02_nav_history.csv
+Rows: 46000
+Columns: 3
+Missing values: None
+
+Dataset: 03_aum_by_fund_house.csv
+Rows: 90
+Columns: 5
+Missing values: None
+
+Dataset: 04_monthly_sip_inflows.csv
+Rows: 48
+Columns: 6
+Missing values:
+yoy_growth_pct    12
+
+Dataset: 05_category_inflows.csv
+Rows: 144
+Columns: 3
+Missing values: None
+
+Dataset: 06_industry_folio_count.csv
+Rows: 21
+Columns: 6
+Missing values: None
+
+Dataset: 07_scheme_performance.csv
+Rows: 40
+Columns: 19
+Missing values: None
+
+Dataset: 08_investor_transactions.csv
+Rows: 32778
+Columns: 13
+Missing values: None
+
+Dataset: 09_portfolio_holdings.csv
+Rows: 322
+Columns: 8
+Missing values: None
+
+Dataset: 10_benchmark_indices.csv
+Rows: 8050
+Columns: 3
+Missing values: None
+
+
+AMFI CODE VALIDATION
+==================================================
+Unique codes in fund master: 40
+Unique codes in NAV history: 40
+Fund-master codes missing from NAV history: 0
+Codes: []
+NAV codes missing from fund master: 0
+Codes: []
+Result: PASS
