@@ -18,3 +18,9 @@ data/processed/
 # Environment and editor files
 .env
 .vscode/
+
+# Local databases
+data/db/
+*.db
+*.sqlite
+*.sqlite3
